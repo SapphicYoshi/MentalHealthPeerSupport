@@ -91,3 +91,5 @@ $RECYCLE.BIN/
 *.pem
 *.key
 *.crt
+node_modules
+.env
